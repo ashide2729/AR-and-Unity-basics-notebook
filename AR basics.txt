@@ -1,0 +1,48 @@
+what is AR?
+
+Augemented reality is presence of virtual objects in a real world. 
+
+Different from VR !
+
+VR is an actual whole virtual world whereas AR is just virtual objects in a real world.
+
+AR applications:
+It has its applications in a lot of fields like gaming, education, industry etc.
+
+How AR works:
+
+The device uses the camera and depth sensor to create "feature points" and then these features are tracked in the real world to achieve AR app.
+Not only that but with increasing complexity the app can achieve a lot applications to increase usage and features.
+
+What can it do in real world?
+Track surfaces
+Lighting estimation
+Environment probes
+Face tracking
+2D image tracking
+
+AR has a lot of applications in mobile apps and it is easy to develop AR apps using different SDKs available.
+
+AR SDKs available :
+
+ARCore - for android, google ARCore SDK for Unity
+ARKit - for iOS, Unity ARKit plugin
+
+But AR foundation allows developers to have one common platform to develop apps for both platforms.
+
+Setup:
+
+Download Unity hub -> Install the version of unity available -> Include Android sdk support -> Finish installation
+
+Getting started:
+
+Go to projects -> Click New -> Give name and type of project -> Get developing
+
+For running on android:
+
+Install AR foundation and ARCore from Windows -> Packages
+
+Create a project -> File -> Build Settings -> Android -> Switch platform -> Add open scenes -> Build and Run 
+* Minimum android required is 7 
+	
+Similar for iOS also if you have mac and Xcode
